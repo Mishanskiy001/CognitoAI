@@ -1,1 +1,1 @@
-# CognitoAI
+# CognitioAI
